@@ -14,3 +14,18 @@ encoder.py test.png test.dat 1
 
 Replace 'test.png' and 'test.dat' with the correct file name and location.
 
+# GNU Radio
+
+Once you have the .dat file generated for your video or image open GNU radio and double click the block found on the far left
+labeled 'File Source' and change the 'File' field to the location of the .dat file you just generated. 
+
+I have the GNU radio frequency centered on 503 MHz which is the equivalent of channel 19.1 on a Television. If you want to test
+decode with an RTL-SDR or something change this to 315 MHz as to not interfere with anything.
+
+# Decoding
+
+In Order to decode the transmitted signal, simply tune your Television to channel 19.1 to see the colored image/video.
+You can also decode the transmitted signal in black and white using the SDR# TV plugin which can be found here: 
+
+http://www.rtl-sdr.ru/page/no-title-2
+
