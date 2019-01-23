@@ -18,7 +18,7 @@ Replace 'test.png' and 'test.dat' with the correct file name and location.
 
 # GNU Radio
 
-Once you have the .dat file generated for your video or image open GNU radio and double click the block found on the far left
+Once you have the .dat file generated for your video or image open YAATT.grc in GNU radio and double click the block found on the far left
 labeled 'File Source' and change the 'File' field to the location of the .dat file you just generated. 
 
 I have the GNU radio frequency centered on 503 MHz which is the equivalent of channel 19.1 on a Television. If you want to test
