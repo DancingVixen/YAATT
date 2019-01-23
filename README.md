@@ -3,6 +3,8 @@
 This is an analog television transmitter for the HackRF using GNU Radio version 3.7.10
 I am unsure if it will work on older versions.
 For now it is designed to work with the HackRF but should be compatible with almost all SDR's with some modification.
+This documentation is probably very hard to read and even harder to follow, if you need help send me an email or 
+reach me via discord at Zorro#0621
 
 # Usage
 
