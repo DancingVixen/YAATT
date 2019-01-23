@@ -31,3 +31,14 @@ You can also decode the transmitted signal in black and white using the SDR# TV 
 
 http://www.rtl-sdr.ru/page/no-title-2
 
+# Resources Used
+
+http://www.ni.com/white-paper/4750/en/
+
+https://www.atsc.org/wp-content/uploads/2015/03/Program-System-Information-Protocol-for-Terrestrial-Broadcast-and-Cable.pdf
+
+https://www.analog.com/media/en/technical-documentation/data-sheets/adv7170_7171.pdf
+
+http://cs.haifa.ac.il/~nimrod/Compression/Video/V1Bas2005.pdf
+
+https://4donline.ihs.com/images/VipMasterIC/IC/PHGL/PHGLS06783/PHGLS06783-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
